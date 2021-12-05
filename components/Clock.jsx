@@ -16,6 +16,10 @@ const timeUpdate = ()=> {
     );
   }
 
+  // componentWillUnmount() {
+  //   clearInterval(this.timerID);
+  // }
+
 const tick = () =>
  {
 setState({
